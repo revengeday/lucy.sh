@@ -2,6 +2,8 @@
 
 Welcome to **lucy.sh** - the script that brings the iconic character Lucy from Cyberpunk Edgerunners right to your terminal! 
 
+![lucysh](https://raw.githubusercontent.com/revengeday/lucy.sh/main/screenshot.png)
+
 This script uses ANSI escape sequences to display a stunning representation of Lucy in all her cyber-enhanced glory. 
 
 With just a few simple commands, you can experience the thrill of having this legendary character right on your screen. 
