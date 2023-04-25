@@ -16,5 +16,5 @@ So sit back, relax, and let the power of technology transport you to the futuris
 
 - Copy **lucy.sh** to a location of your choice
 - Navigate to the location with your terminal '`cd /.../`'
-- Authorize the file with `chmod +x **lucy.sh**`
-- Start **lucy.sh** with `./**lucy.sh**`
+- Authorize the file with `chmod +x lucy.sh`
+- Start **lucy.sh** with `./lucy.sh`
